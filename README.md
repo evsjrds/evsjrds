@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I’m currently working as Jr Data Scientist at Grupo Ser Educacional
+⚡ I’m currently working as Data Scientist at Grupo Ser Educacional
  <br><br>⚡ Msc Computational Physics UFPE <br>
 
 
